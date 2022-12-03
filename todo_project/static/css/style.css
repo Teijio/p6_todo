@@ -1,0 +1,18 @@
+.navbar-brand img {
+  width: 40px;
+}
+
+.carousel-inner {
+  position: relative;
+}
+.carousel-inner img {
+  height: 900px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+.content {
+  position: absolute;
+  left: 0;
+  top: 0;
+}
